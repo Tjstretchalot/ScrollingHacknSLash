@@ -1,0 +1,1 @@
+All the source, unless otherwise marked, is licensed under a Creative Commons Attribution 3.0 License, available at http://creativecommons.org/by/3.0/
